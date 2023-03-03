@@ -72,8 +72,3 @@ footer.card-footer{
     border-radius: 0 !important;
   }
 }
-@media (max-height: 500px){
-  div.card-body{
-    height: auto;
-  }
-}
